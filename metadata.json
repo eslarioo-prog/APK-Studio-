@@ -1,0 +1,6 @@
+{
+  "name": "APK Studio - محرر وتعديل تطبيقات أندرويد",
+  "description": "أداة احترافية وشاملة لتعديل وتفكيك تطبيقات أندرويد APK: تغيير اسم الحزمة والتطبيق، تعديل الصلاحيات، استبدال الأيقونة والموارد، فك وتعديل النصوص، وإعادة الحزم والتوقيع الرقمي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
